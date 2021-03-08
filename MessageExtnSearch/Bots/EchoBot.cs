@@ -83,7 +83,7 @@ namespace MessageExtnSearch.Bots
                 Buttons = new List<CardAction>
                 {
                     
-                    new CardAction { Type = ActionTypes.OpenUrl, Title = "Chat", Value ="https://teams.microsoft.com/l/chat/0/0?users=amit.kalal@celebaltech.com"},
+                    new CardAction { Type = ActionTypes.OpenUrl, Title = "Chat", Value ="https://teams.microsoft.com/l/chat/0/0?users=Id.com"},
                 },
             };
 
